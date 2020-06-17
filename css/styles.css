@@ -1,0 +1,33 @@
+body{
+  font-family: lato, sans-serif;
+}
+header,h1,h2,h3,h4,h5,h6{
+  font-family: Montserrat, sans-serif;
+}
+.text-blue{
+  color: #2C3E50;
+}
+.line-white {
+    border-top: 3px solid white;
+    width: 25px;
+    display: inline-block;
+    height: 10px;
+}
+.line-blue{
+  border-top: 3px solid #2C3E50;
+  width: 25px;
+  display: inline-block;
+  height: 10px;
+}
+.bg-green{
+  background-color: #18BC9C;
+}
+.bg-blue{
+  background-color: #2C3E50;
+}
+.bg-black{
+  background-color: black;
+}
+.link-white{
+  color: white !important;
+}
